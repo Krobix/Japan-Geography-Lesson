@@ -1,0 +1,49 @@
+h1 {
+	text-align: center;
+	font-size: 40px;
+	color: navy;
+}
+
+h2 {
+	text-align: center;
+	font-size: 30px;
+	color: navy;
+}
+
+form {
+	text-align: center;
+}
+
+.b-pretty {
+	border: 0;
+	text-align: center;
+	background-color: #be03fc;
+	color: #fff;
+	text-shadow: 1px 1px 1px #000;
+	box-shadow: inset 2px 2px 3px rgba(255, 255, 255, .6), inset -2px -2px 3px rgba(0, 0, 0, .6);
+	font-size: 20px;
+	padding: 2px;
+	width: 100%;
+}
+
+.textbook-sect {
+	font-style: italic;
+	font-size: 20;
+}
+
+.answer-box {
+	height: 80px;
+	width: 100%;
+}
+
+img {
+	display: block;
+ 	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+}
+
+.answer-review-box {
+	background-color: #edcaeb;
+	border: 1px solid red;
+}
